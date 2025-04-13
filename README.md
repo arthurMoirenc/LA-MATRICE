@@ -9,6 +9,3 @@
 ![logo LMTRC](./lmtrcOvaleDVD.png)
 
 ![logo LMTRC](./lmtrcOvaleNbienVN.png)
-
-![logo LMTRC](./lmtrcOvaleNVN.png)
-
