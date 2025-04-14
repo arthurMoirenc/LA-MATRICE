@@ -1,4 +1,4 @@
-<h1 align="center">🟩💊🕶️ LA MATRICE</h1>
+<h1 align="center">🤖 LA MATRICE</h1>
 
 ---
 
