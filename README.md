@@ -7,7 +7,7 @@ Elle sert d’**accroche visuelle et sonore**, en posant les premières ambiance
 
 L’objectif de cette intro est de capter l’attention du spectateur dès les premières secondes.
 
-🎤 La vidéo complète retracera **l’ensemble de sa carrière** : ses débuts, son évolution artistique, ses influences, ses succès et son impact dans le paysage du rap.
+La vidéo complète retracera **l’ensemble de sa carrière** : ses débuts, son évolution artistique, ses influences, ses succès et son impact dans le paysage du rap.
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Mvy7IHyUUAw" target="_blank">
