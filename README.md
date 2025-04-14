@@ -4,7 +4,11 @@
 
 ![Réalisation Vidéo](https://img.shields.io/badge/Réalisation%20Vidéo-006400?style=for-the-badge)
 
-[🔗 Vidéo : INTRO VIDÉO HOUDI](https://www.youtube.com/watch?v=Mvy7IHyUUAw)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Mvy7IHyUUAw" target="_blank" style="text-decoration: none; font-weight: bold; font-size: 18px;">
+    ▶️ Voir l’introduction vidéo "HOUDI"
+  </a>
+</p>
 
 ---
 
