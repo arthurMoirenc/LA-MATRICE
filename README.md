@@ -24,3 +24,5 @@ La vidéo complète retracera **l’ensemble de sa carrière** : ses débuts, so
 ![logo LMTRC](./laMatrice3D.png)  
 ![logo LMTRC](./lmtrcOvaleDVD.png)  
 ![logo LMTRC](./lmtrcOvaleNbienVN.png)
+
+---
