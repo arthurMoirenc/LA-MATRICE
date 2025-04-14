@@ -1,7 +1,5 @@
 <h1 align="center">🤖 LA MATRICE</h1>
 
----
-
 ![Réalisation Vidéo](https://img.shields.io/badge/Réalisation%20Vidéo-006400?style=for-the-badge)
 
 Cette vidéo est l’**introduction** d’un projet de réalisation plus long consacré au rappeur **Houdi**.  
