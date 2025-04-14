@@ -5,8 +5,8 @@
 ![Réalisation Vidéo](https://img.shields.io/badge/Réalisation%20Vidéo-006400?style=for-the-badge)
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Mvy7IHyUUAw" target="_blank">
-    <img src="https://img.shields.io/badge/VISIONNER%20LA%20VIDÉO%20-%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href="https://www.youtube.com/watch?v=Mvy7IHyUUAw" target="_blank" style="text-decoration: none; font-weight: bold; font-size: 18px;">
+    ▶️ Voir l’introduction vidéo "HOUDI"
   </a>
 </p>
 
