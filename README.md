@@ -2,13 +2,13 @@
 
 ---
 
-![🎬 Réalisation Vidéo](https://img.shields.io/badge/R%C3%A9alisation%20Vid%C3%A9o-00BFFF?style=for-the-badge)
+![Réalisation Vidéo](https://img.shields.io/badge/Réalisation%20Vidéo-006400?style=for-the-badge)
 
 [🔗 Vidéo : INTRO VIDÉO HOUDI](https://www.youtube.com/watch?v=Mvy7IHyUUAw)
 
 ---
 
-![🖌️ Logo Illustrator](https://img.shields.io/badge/Logo%20Illustrator-FF8C00?style=for-the-badge)
+![Logo Illustrator](https://img.shields.io/badge/Logo%20Illustrator-006400?style=for-the-badge)
 
 ![logo LMTRC](./lmtrcOvaleNV.png)  
 ![logo LMTRC](./laMatrice3D.png)  
