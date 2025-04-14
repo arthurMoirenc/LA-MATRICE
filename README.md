@@ -2,15 +2,23 @@
 
 ---
 
-![Réalisation Vidéo](https://img.shields.io/badge/Réalisation%20Vidéo-006400?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Réalisation%20Vidéo-006400?style=for-the-badge" style="transform: scale(1.3);">
+</p>
 
-[🔗 Vidéo : INTRO VIDÉO HOUDI](https://www.youtube.com/watch?v=Mvy7IHyUUAw)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Mvy7IHyUUAw">🔗 Vidéo : INTRO VIDÉO HOUDI</a>
+</p>
 
 ---
 
-![Logo Illustrator](https://img.shields.io/badge/Logo%20Illustrator-006400?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Logo%20Illustrator-006400?style=for-the-badge" style="transform: scale(1.3);">
+</p>
 
-![logo LMTRC](./lmtrcOvaleNV.png)  
-![logo LMTRC](./laMatrice3D.png)  
-![logo LMTRC](./lmtrcOvaleDVD.png)  
-![logo LMTRC](./lmtrcOvaleNbienVN.png)
+<p align="center">
+  <img src="./lmtrcOvaleNV.png" width="300px">
+  <img src="./laMatrice3D.png" width="300px">
+  <img src="./lmtrcOvaleDVD.png" width="300px">
+  <img src="./lmtrcOvaleNbienVN.png" width="300px">
+</p
