@@ -4,8 +4,6 @@
 
 ![Réalisation Vidéo](https://img.shields.io/badge/Réalisation%20Vidéo-006400?style=for-the-badge)
 
-🎬 À propos de la vidéo
-
 Cette vidéo est l’**introduction** d’un projet de réalisation plus long consacré au rappeur **Houdi**.  
 Elle sert d’**accroche visuelle et sonore**, en posant les premières ambiances.
 
